@@ -10,7 +10,7 @@ Part of this Challenge was to use Voila to deploy this notebook as a webapp. Voi
 Screen shot showing GIT Bash window where Voila is started. Voila is start with the folder containg the ETF Analyzer app. The start page of Voila should list all apps available in this folder
 ![A screenshot of git bash window showing Use of Viola](images/Starting_voila.png)
 
-Screen show of browser showing start page of Voila. Voila started on port 8866, hence the url http://localhost:8866/voila/render/etf_analyzer.ipynb? It shows list of Jupyter Notebooks in this folder. Current there is only on Notebook hend it is the only one displayed. Next we will open the ETF analyzer as web app by cling on it 
+Screen show of browser showing start page of Voila. Voila started on port 8866, hence the url http://localhost:8866/voila/render/etf_analyzer.ipynb? It shows list of Jupyter Notebooks in this folder. Current there is only on Notebook hend it is the only one displayed. Next we will open the ETF analyzer as web app by clicking on it 
 ![Voila Start Page](images/Voila-main-page-notebooks.png)
 
 ### Following are Screen shots of the output of the ETF app after it executed in new browser window
@@ -18,7 +18,7 @@ Screen show of browser showing start page of Voila. Voila started on port 8866, 
 ETF App Output Screen 1
 ![ETF Screen 1](images/ETF-running-p1.png)
 ETF App Output Screen 2
-![ETF Screen 2](images/ETF-running-p2.png
+![ETF Screen 2](images/ETF-running-p2.png)
 ETF App Output Screen 3
 ![ETF Screen 3](images/ETF-running-p3.png)
 ETF App showing use of 'Box Zoom' widget in hvplot
