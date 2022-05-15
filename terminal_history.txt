@@ -1,0 +1,23 @@
+    1  cd c:/RajB*
+    2  cd challenge-7
+    3  git config --global user.name Raj Tolani
+    4  git config --global user.email admin@tolanicollection.com
+    5  git config --list
+    6  git clone https://github.com/rajtolani/challenge-7-etf_analyzer.git
+    7  ls
+    8  cd ch*
+    9  ls
+   10  ls
+   11  git status
+   12  git add .
+   13  git status
+   14  git commit -m "This version has the original starter files provided but the Fintech BootCamp Staff.
+"
+   15  git push
+   16  git status
+   17  git status
+   18  git add .
+   19  git status
+   20  git commit -m "This version has the final code for submission. Also included is the Readme file which shows use of Voila to deploy this Notebook as webapp. The images used in the Readme files are in the folder images."
+   21  git push
+   22  history 50 > terminal_history.txt
